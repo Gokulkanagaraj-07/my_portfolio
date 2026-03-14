@@ -188,6 +188,7 @@ Each simulation deepened my understanding of incident response, risk assessment,
 
 | Project | Description | Link |
 |---------|-------------|------|
+| Wazuh and shuffle | Threat Monitering | [Repo](https://github.com/Gokulkanagaraj-07/My_Project_1) |
 | Caesar-Cipher | Simple Encryption Technique | [Repo](https://github.com/Gokulkanagaraj-07/caesar-cipher.git) |
 | Pixel manipulation for Image Encryption | Simple image encryption tool using pixel manipulation techniques | [Repo](https://github.com/Gokulkanagaraj-07/image-encryption-and-decryption.git) |
 | PacketSniffer | capture and analyze data packets traveling across a computer network | [Repo](https://github.com/Gokulkanagaraj-07/Packet-Sniffer.git) |
