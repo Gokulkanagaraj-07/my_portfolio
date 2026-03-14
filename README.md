@@ -20,8 +20,9 @@ I’m passionate about protecting systems, networks, and data from digital threa
 
 ## 🛠️ Skills
 
-- Penetration Testing (Kali Linux, Metasploit, Burp Suite)
-- Network Security & Monitoring (Wireshark, Nmap, Snort)
+- Penetration Testing & Vulnerability Analysis
+- Network Security & Monitoring
+- Cloud Security - AWS
 - Scripting (Python, Bash)
 - Vulnerability Assessment & Management
 - Digital Forensics & Incident Response
@@ -30,8 +31,37 @@ I’m passionate about protecting systems, networks, and data from digital threa
 ---
 
 
+## ⚙️ Tools
 
-## Internship and Work Experience
+- Operating Systems
+  
+      Linux, Unix, Windows, IOS 
+- Network Security 
+
+      Wireshark, Zeek, tcpdump, IDS & IPS
+  
+- Vulnerability Assessment & Management
+
+      Nmap, Qulysis, Nikto, Burp Suite
+  
+- Digital Forensics & Incident Response
+
+       Autopsy, 𝗧𝗶𝗺𝗲𝗹𝗶𝗻𝗲 & 𝗟𝗼𝗴 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀, 𝗗𝗶𝘀𝗸 𝗜𝗺𝗮𝗴𝗶𝗻𝗴 & 𝗔𝗰𝗾𝘂𝗶𝘀𝗶𝘁𝗶𝗼𝗻, 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗙𝗼𝗿𝗲𝗻𝘀𝗶𝗰𝘀, 𝗙𝗶𝗹𝗲, 𝗠𝗲𝘁𝗮𝗱𝗮𝘁𝗮 & 𝗗𝗮𝘁𝗮 𝗖𝗮𝗿𝘃𝗶𝗻𝗴
+
+
+
+- Blue Team Tools
+
+      𝐄𝐦𝐚𝐢𝐥 𝐀𝐫𝐭𝐢𝐟𝐚𝐜𝐭𝐬, 𝐖𝐞𝐛 𝐀𝐫𝐭𝐢𝐟𝐚𝐜𝐭𝐬, 𝐔𝐑𝐋 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧, 𝐅𝐢𝐥𝐞 𝐀𝐫𝐭𝐢𝐟𝐚𝐜𝐭𝐬, 𝐃𝐨𝐦𝐚𝐢𝐧 𝐑𝐞𝐜𝐨𝐫𝐝𝐬, Sandbox
+
+    
+- Security Best Practices & Compliance
+
+      ISO 27001, NIST Framework, GRC
+
+---
+
+## 🔬 Internship and Work Experience
 
  1.Cyber Security & Ethical Hacking
 
@@ -42,6 +72,16 @@ I’m passionate about protecting systems, networks, and data from digital threa
  Cybersecurity is the practice of defending digital systems, networks, and data from malicious attacks, ensuring confidentiality, integrity, and availability. As cyber threats evolve, organizations rely on robust security frameworks to prevent breaches and safeguard sensitive information.
 Ethical hacking, also known as penetration testing, involves authorized professionals simulating cyberattacks to identify vulnerabilities before real attackers exploit them. Ethical hackers use the same tools and techniques as malicious hackers—but with permission and purpose to strengthen security posture.
 Together, these fields form the backbone of digital trust, enabling safe innovation, secure communication, and resilient infrastructure in an increasingly connected world.
+
+- Skills:
+  
+  - Cyber Security
+  - Ethical Hacking
+  - Network Scanning
+  - OSINT
+  - Documnatation
+  
+  
    
 
 
@@ -56,6 +96,15 @@ Penetration Testing, or pen testing, is a simulated cyberattack conducted by sec
 The process typically involves five stages: planning, scanning, gaining access, maintaining access, and analysis. By uncovering security gaps and demonstrating potential impact, pen testing helps organizations strengthen their defenses, comply with regulations, and reduce risk exposure.
 It’s a critical tool in proactive cybersecurity, ensuring that systems are not just secure in theory but in practice.
 
+- Skills:
+  
+  - Security Assesment
+  - VAPT
+  - bug Fixing
+  - Vulnerability Management
+  - Documnatation
+  
+
    
 
 
@@ -68,6 +117,69 @@ It’s a critical tool in proactive cybersecurity, ensuring that systems are not
 A Cybersecurity Intern supports an organization’s security team by assisting in threat detection, vulnerability assessment, and incident response. Interns gain hands-on experience with tools like SIEM, firewalls, and intrusion detection systems, while learning to analyze logs, monitor network traffic, and implement basic security protocols.
 They may also contribute to penetration testing, malware analysis, and automation scripting under expert guidance. This role bridges academic learning with real-world application, helping interns develop technical skills, professional discipline, and a deeper understanding of cybersecurity operations.
 It’s a launchpad for future security analysts, ethical hackers, and cyber defenders.
+
+- Skills:
+  
+  - Cyber Security
+  - Security Frameworks
+  - Security Controls
+  - Standards and Policies
+  - Documnatation
+  
+
+
+
+
+
+4.Forage
+
+    Cyber Security Job Simulation  · Internship
+    Nov 2025 - Dec 2025 
+    Remote
+
+Completed Simulations:
+- Telstra – Cybersecurity Job Simulation 
+Responded to a malware attack 
+Mitigated and analyzed the incident 
+Delivered an incident postmortem
+
+- Deloitte – Cyber Job Simulation 
+Practical exposure to cyber operations and threat response
+
+- Datacom – Cyber Security Operations Simulation 
+Introduction to cybersecurity fundamentals 
+Conducted a cybersecurity risk assessment
+
+- Commonwealth Bank – Introduction to Cybersecurity Simulation 
+Data analysis 
+Incident response 
+Security awareness 
+Penetration testing
+
+- Tata – Cybersecurity Analyst Simulation 
+IAM fundamentals and strategy 
+Custom IAM solutions 
+Platform integration
+
+- Mastercard – Cybersecurity Simulation 
+Designed phishing email simulations 
+Interpreted phishing results
+
+- AIG – Shields Up Simulation 
+Responded to a zero-day vulnerability 
+Technically bypassed ransomware
+
+Each simulation deepened my understanding of incident response, risk assessment, IAM and threat mitigation—skills I’m excited to apply in real-world cybersecurity environments.
+
+- Skills:
+  
+  - Log Monitering
+  - Incident Response
+  - Alert Generatinon
+  - Network monitering
+  - Report the Incident
+  - Log Analysis
+  
 
 
 ---
@@ -88,14 +200,18 @@ It’s a launchpad for future security analysts, ethical hackers, and cyber defe
 
 ## 📃 Certifications
 
-- Certified Ethical Hacker
-- Certified Cybersecurity Practitioner
-- Fortinet Certified Associate in Cybersecurity
-- CSI Linux Certified Investigator
-- Blue Team Junior Analyst
-- Junior Cybersecurity Analyst
-- Certified in Cybersecurity
-- The Complete Hands-on Cybersecurity Analyst Course
+- Certified Ethical Hacker - Academy Europe
+- Certified Cybersecurity Practitioner - palo Alto Networks
+- Vulnerability Management Detection and Response Path - Qualys
+- Fortinet Certified Associate in Cybersecurity - Fortinet
+- Pre Security(New) - Try Hack Me
+- SOC career Path - Let's Defends
+- Blue Team Junior Analyst - Security Blue Team
+- Junior Cybersecurity Analyst Career path - CISCO Networking Academy
+- Certified in Cybersecurity - ISC2
+- The Complete Hands-on Cybersecurity Analyst Course - Udemy
+
+---
 
 
 ## 🏅 Achievements
@@ -114,7 +230,7 @@ It’s a launchpad for future security analysts, ethical hackers, and cyber defe
    
     https://leetcode.com/u/GOKUL-K/
 
-               Solve 100+ problems
+               Solve 250+ problems
 
 
 - Try Hack me  -----> GokulKanagaraj
@@ -122,9 +238,16 @@ It’s a launchpad for future security analysts, ethical hackers, and cyber defe
   https://tryhackme.com/p/GokulKanagaraj
 
   
-               Top 6%
-               Solve 100+ Labs
-               10+ Badges
+               Top 4%
+               Solve 100+ Lab Rooms
+               15+ Badges
+  
+ - Let's Upgrade
+ 
+               Student Ambassador · Part-time
+               Sep 2024 to Oct 2024 · 2 mos
+               Remote
+
   
 - Security Awarness -----> Social Engineering Attacks
 
@@ -137,13 +260,40 @@ It’s a launchpad for future security analysts, ethical hackers, and cyber defe
   
    https://medium.com/@GokulKangaraj
   
-                1.CTF Writeups
-                2.Career Blogs
+      1.CTF Writeups
+      2.Career Blogs
+
+  ---
+
+ ##  Volunteering
+
+- Google Developer Group on Campus
+  
+      Member
+      Education and Innovation 
+      Sep 2025 - Present 
+      Paavai Engineering College
+                  
+
+  
+ - Digital Defenders Club
+ 
+       Member
+       Mar 2025 - Present 
+       Awareness and Training
+
+   
+ - ISC2
+   
+       Candidate
+       Nov 2024 - Present 
+       Education
  
 
 ---
 
 ## 📫 Contact
+ 
 
 - Email   : gokulkanagaraj7@gmail.com
 - LinkedIn: [Gokul Kanagaraj](https://www.linkedin.com/in/gokul-kanagaraj07/)
