@@ -221,7 +221,7 @@ Each simulation deepened my understanding of incident response, risk assessment,
 - Credly       -----> Gokul Kanagaraj
 
   
-    https://www.credly.com/users/gokul-kanagaraj.cb508ea6
+   https://www.credly.com/users/gokul-kanagaraj7
 
                Got 15+ Badges form various Oragnazation
                CISCO, IBM, ISC2 etc.
